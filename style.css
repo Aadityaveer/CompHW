@@ -1,0 +1,27 @@
+.background-image{
+    background-image: url("file:///C:/Users/HP/Documents/HTML/bg.jpg");
+    background-size: cover;
+    height:100vh;
+    background-repeat: no-repeat;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+*{
+    margin:0;
+    padding:0;
+}
+.div{
+    width: 200px;
+    height:100px;
+    background:rgba(255, 255, 255, 0.1);
+    backdrop-filter: blur(10px);
+    font-size: 26px;
+    border-radius: 20px;
+    box-shadow: 0px 0px 16px 0px rgba(0, 0, 0, 0.5);
+    
+    
+   
+}
